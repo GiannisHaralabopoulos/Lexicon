@@ -4,7 +4,7 @@ Beyond polarity (or pure emotion) lexicon
 
 This lexicon is a collection of terms described in xxx publication.
 
-Header description
+## **Header description**
 
 Stem: the stem derived from terms in "terms" column
 

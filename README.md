@@ -1,4 +1,4 @@
-# Lexicon
+# Pure Emotion Lexicon
 
 This lexicon is a collection of terms and annotations, as described in xxx publication.
 

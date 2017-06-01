@@ -1,8 +1,6 @@
 # Lexicon
 
-Beyond polarity (or pure emotion) lexicon
-
-This lexicon is a collection of terms described in xxx publication.
+This lexicon is a collection of terms and annotations, as described in xxx publication.
 
 ## **Header description**
 

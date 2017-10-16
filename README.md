@@ -8,10 +8,10 @@ This lexicon is a collection of terms and annotations, as described in https://a
 
 **Terms**: terms found in the corpus
 
-**Anticipation, joy, trust, fear, sadness, disgust, anger, surprise**: comprise the emotion class
+**Anticipation, joy, trust, fear, sadness, disgust, anger, surprise**: emotion classes
 
-**Intensifier, negator**: comprise the intensifiers class
+**Intensifier, negator**: intensifiers classes
 
-**None**: the terms are stop-words, or not emotion evocative and not intensifying
+**None**: stop-words, not emotion evocative,or not intensifying terms
 
 **Total**: the total number of annotations received

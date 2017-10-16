@@ -1,6 +1,6 @@
 # Pure Emotion Lexicon
 
-This lexicon is a collection of terms and annotations, as described in xxx publication.
+This lexicon is a collection of terms and annotations, as described in https://arxiv.org/abs/1710.04203.
 
 ## **Header description**
 

@@ -234,7 +234,7 @@
 232,one,ones one,1,0,0,0,0,0,0,0,0,0,0,1
 233,five,five,0,0,0,0,0,0,0,0,2,1,7,10
 234,know,knowing knows know,1,1,1,0,0,0,0,0,0,0,0,3
-235,never,never,0,0,0,0,0,1,0,0,0,0,3,4
+235,never,never,0,0,0,0,0,1,0,0,0,4,3,8
 236,found,founding founds found founded,0,0,0,0,0,0,0,0,0,0,1,1
 237,oh,oh,0,0,0,0,0,0,0,0,0,0,3,3
 238,hi,his hi,0,0,0,0,0,0,0,0,0,0,5,5
@@ -354,7 +354,7 @@
 352,veri,very,0,1,0,0,0,0,0,0,0,0,1,2
 353,moment,moment moments,1,1,0,0,0,0,0,0,0,0,0,2
 354,deal,dealing deal deals dealings,0,0,0,1,0,0,0,0,0,0,0,1
-355,issu,issue issuing issued issues,0,1,0,1,0,0,0,0,0,0,0,2
+355,issu,issue issuing issued issues,0,1,0,2,1,0,0,0,0,0,0,4
 356,name,name named naming namely names,0,1,0,0,0,0,0,0,0,0,2,3
 357,give,give gives giving,0,0,0,0,0,0,0,0,0,0,1,1
 358,potato,potatoes potato,0,5,2,0,0,0,0,0,0,0,5,12
@@ -559,7 +559,7 @@
 557,congressman,congressman,0,0,0,0,0,0,0,0,0,0,1,1
 558,push,pushing push pushes pushed,0,0,1,0,0,1,1,0,0,0,0,3
 559,charg,charging charges charged charge,0,0,0,0,0,0,0,0,0,0,2,2
-560,corrupt,corrupt corrupted corrupts corrupting corruption,0,0,0,0,0,0,0,0,0,0,2,2
+560,corrupt,corrupt corrupted corrupts corrupting corruption,0,0,1,1,1,0,0,0,0,0,2,5
 561,treat,treating treat treats treated,0,1,0,0,0,0,0,0,0,0,0,1
 562,gift,gifts gifted gift,0,2,0,0,0,0,0,0,0,0,0,2
 563,statu,status statues statue,1,0,0,0,0,0,0,0,0,0,1,2

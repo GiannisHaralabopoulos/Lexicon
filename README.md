@@ -12,6 +12,6 @@ This lexicon is a collection of terms and annotations, as described in https://a
 
 **Intensifier, negator**: intensifiers classes
 
-**None**: stop-words, not emotion evocative,or not intensifying terms
+**None**: stop-words, not emotion evocative, or not intensifying terms
 
 **Total**: the total number of annotations received

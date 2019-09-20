@@ -1,6 +1,6 @@
 # Pure Emotion Lexicon
 
-This lexicon is a collection of terms and annotations, as described i:
+This lexicon is a collection of terms and annotations, as described in:
 - [Crowdsourcing for Beyond Polarity Sentiment Analysis A Pure Emotion Lexicon](https://arxiv.org/abs/1710.04203)
 - [A Multivalued Emotion Lexicon Created and Evaluated by the Crowd](https://ieeexplore.ieee.org/document/8554956)
 
